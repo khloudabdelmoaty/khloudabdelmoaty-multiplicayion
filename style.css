@@ -1,0 +1,15 @@
+table,tr,td
+{
+    border: 1px solid black;
+    color: red;
+    text-align: center;
+width: 200px;
+
+}
+th{
+    color: rgb(0, 0, 0);
+}
+/* td
+{
+    height: 300px;
+} */
